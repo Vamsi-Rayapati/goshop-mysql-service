@@ -22,23 +22,6 @@ This is the dedicated **MySQL database service** for the GoShop e-commerce platf
 
 
 
-
-## 🧪 Database Initialization
-
-To create the GoShop schema manually:
-
-```bash
-mysql -u <username> -p < database_name < schema.sql
-```
-
-To load seed data:
-
-```bash
-mysql -u <username> -p < database_name < seed.sql
-```
-
-
-
 ## 📌 Notes
 
 - Ensure you have MySQL 8+ installed and running.
